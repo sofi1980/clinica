@@ -68,7 +68,7 @@ public class Principal extends javax.swing.JFrame {
         // TODO add your handling code here:
         if (jList1.getSelectedIndex()==0)
         {
-            this.getContentPane().setBackground(Color.blue);
+            this.getContentPane().setBackground(Color.blue);//
         }
          if (jList1.getSelectedIndex()==1)
         {
